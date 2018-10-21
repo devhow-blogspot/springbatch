@@ -13,7 +13,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<postgres.version>9.1-901-1.jdbc4</postgres.version>
-		<spring.version>3.2.2.RELEASE</spring.version>
+		<spring.version>4.3.20.RELEASE</spring.version>
 		<spring.batch.version>2.2.0.RELEASE</spring.batch.version>
 	</properties>
 
